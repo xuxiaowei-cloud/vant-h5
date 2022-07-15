@@ -1,7 +1,8 @@
 {
   "name": "vant-h5",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "基于 OAuth 2.1、Vite 3、Vue 3、Vant 4、H5 的项目",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +10,27 @@
     "preview": "vite preview",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx,.vue --cache --fix"
   },
+  "author": "徐晓伟 <xuxiaowei@xuxiaowei.com.cn>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xuxiaowei-cloud/vant-h5/issues"
+  },
+  "homepage": "https://github.com/xuxiaowei-cloud/vant-h5#README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxiaowei-cloud/vant-h5.git"
+  },
+  "keywords": [
+    "axios",
+    "crypto-js",
+    "js-cookie",
+    "jsencrypt",
+    "vue",
+    "vue-router",
+    "vuex",
+    "typescript",
+    "vite"
+  ],
   "dependencies": {
     "axios": "0.27.2",
     "crypto-js": "4.1.1",
