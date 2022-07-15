@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>vant-h2</h1>
+    <h1>vant-h5</h1>
     <h3>基于 OAuth 2.1、Vite 3、Vue 3、Vant 4、H5 的项目</h3>
     <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE">
         <img alt="License-Anti" src="https://img.shields.io/badge/License-Anti 996-blue.svg">
