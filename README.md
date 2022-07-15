@@ -6,6 +6,17 @@
 npm create vite@latest vant-h5 -- --template vue-ts
 npm i vant@4.0.0-alpha.4
 npm i unplugin-vue-components -D
+npm i eslint -D
+npx eslint --init
+# 选择
+# To check syntax, find problems, and enforce code style
+# JavaScript modules (import/export)
+# Vue.js
+# use TypeScript
+# √ Browser
+# Use a popular style guide
+# Standard: https://github.com/standard/standard
+# JavaScript
 ```
 
 # Vue 3 + TypeScript + Vite
