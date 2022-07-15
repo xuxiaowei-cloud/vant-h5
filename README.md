@@ -4,6 +4,8 @@
 
 ```shell
 npm create vite@latest vant-h5 -- --template vue-ts
+npm i vant@4.0.0-alpha.4
+npm i unplugin-vue-components -D
 ```
 
 # Vue 3 + TypeScript + Vite
