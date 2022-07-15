@@ -24,11 +24,14 @@ npm i jsencrypt
 npm i sockjs-client
 npm i stompjs
 npm i vue-clipboard3
+npm i vue-router
+npm i vuex
 ```
 
 ## 文档
 
 - [vant-contrib](https://vant-contrib.gitee.io/vant/v4)
+- [vue cli](https://cli.vuejs.org/zh/guide)
 
 # Vue 3 + TypeScript + Vite
 
