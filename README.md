@@ -17,6 +17,13 @@ npx eslint --init
 # Use a popular style guide
 # Standard: https://github.com/standard/standard
 # JavaScript
+npm i axios
+npm i crypto-js
+npm i js-cookie
+npm i jsencrypt
+npm i sockjs-client
+npm i stompjs
+npm i vue-clipboard3
 ```
 
 ## 文档

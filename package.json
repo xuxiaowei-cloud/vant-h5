@@ -10,8 +10,15 @@
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx,.vue --cache --fix"
   },
   "dependencies": {
+    "axios": "0.27.2",
+    "crypto-js": "4.1.1",
+    "js-cookie": "3.0.1",
+    "jsencrypt": "3.2.1",
+    "sockjs-client": "1.6.1",
+    "stompjs": "2.3.3",
     "vant": "4.0.0-alpha.4",
-    "vue": "3.2.37"
+    "vue": "3.2.37",
+    "vue-clipboard3": "2.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.30.6",
